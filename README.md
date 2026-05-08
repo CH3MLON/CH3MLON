@@ -1,41 +1,36 @@
-
-<h1 align="center">Hi 👋, I'm Rohith K</h1>
-<h3 align="center">AI & ML Student | Full Stack Developer | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Rohith</h1>
+<h3 align="center">Machine Learning Engineer• Full Stack Developer • Curious Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Full+Stack+Web+Developer;Building+Real-World+Projects;Passionate+about+Learning+and+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Full+Stack+Developer;Building+Projects+that+Solve+Problems;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-🎓 Second Year CSE (AI & ML) Student  
-💻 Passionate about Full Stack Development & AI Applications  
-🚀 Building scalable and real-world software projects  
-🌱 Currently learning advanced backend systems and cloud deployment  
-🏆 Coordinated a National Level Hackathon in AIML Department  
-⚡ Love solving problems, creating projects, and exploring new technologies  
+- 🎓 CSE (AI & ML) student at Sri Eshwar College of Engineering  
+- 💻 Interested in AI, backend systems, and modern web development  
+- 🚀 Love building practical projects and experimenting with new ideas  
+- 🧠 Exploring NLP, cloud technologies, and intelligent applications  
+- 🤝 Enjoy working in teams, organizing events, and collaborating on projects  
+- ⚡ Strong interest in problem solving, software architecture, Artificial Intelligence systems  
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-
 <a href="https://github.com/CH3MLON">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="https://instagram.com/YOUR-INSTAGRAM">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:r0hithkarthick2007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
 
@@ -43,82 +38,65 @@
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp" />
 </p>
 
-### 🌐 Frontend
+### Frontend & Backend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
 </p>
 
-### ⚙️ Backend
+### AI / ML
+- TensorFlow  
+- PyTorch  
+- Scikit-learn  
+- NLP  
+- Prompt Engineering  
+
+### Databases & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker" />
 </p>
 
-### 🛢️ Database & Cloud
+### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
+## 🛒 Farm2Bag
+A smart grocery recommendation platform focused on personalized and health-aware suggestions.
 
-## 🌸 IRIS Flower Classification System
-> Machine Learning project that predicts Iris flower species using classification algorithms.
-
-### 🔹 Features
-- Predicts flower species accurately
-- Clean UI for input and prediction
-- ML model integration
-- Real-time result generation
-
-### 🔹 Tech Used
-`Python` `Machine Learning` `Flask` `HTML/CSS`
+**Tech Used:**  
+`Python` `Scikit-learn` `Flask` `HTML/CSS`
 
 ---
 
-## 🧠 AI Based Web Application
-> Full stack application developed with modern web technologies and deployed online.
+## 🧠 MITRA
+A multilingual AI voice assistant concept focused on simplifying access to information.
 
-### 🔹 Features
-- Responsive frontend
-- Backend API integration
-- MongoDB Atlas cloud database
-- Secure deployment using Render
-
-### 🔹 Tech Used
-`React` `Node.js` `Express.js` `MongoDB Atlas` `Render`
+**Tech Used:**  
+`Python` `React` `AWS`
 
 ---
 
-## 📊 Student/Event Management System
-> Platform for managing events, participants, and coordination activities efficiently.
+## 🌊 AquaPlastix
+AI-based project focused on identifying microplastics using image processing and deep learning.
 
-### 🔹 Features
-- Event registration
-- Participant management
-- Admin dashboard
-- Real-time updates
-
-### 🔹 Tech Used
-`React` `Node.js` `MongoDB`
+**Tech Used:**  
+`Python` `TensorFlow` `PyTorch`
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CH3MLON&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CH3MLON&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CH3MLON&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CH3MLON&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
@@ -129,32 +107,27 @@
 
 # 🏆 Achievements
 
-🏅 Coordinated National Level AIML Hackathon  
-🏅 Built and deployed multiple full stack projects  
-🏅 Active learner in AI, ML, and Web Development  
-🏅 Strong collaboration and leadership skills  
+- 🥇 Winner at AI Conclave for innovative project presentation  
+- 🏅 National level hackathon finalist  
+- 💡 Solved 100+ coding problems on LeetCode  
+- 🚀 Built and deployed multiple full stack projects  
 
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Exploring
 
-- Advanced MERN Stack
 - System Design
-- Cloud Computing
-- AI Integrations in Web Apps
-
----
-
-# 🎯 Career Objective
-
-To become a skilled Software Engineer and AI Developer by building impactful solutions, continuously learning modern technologies, and contributing to innovative projects that solve real-world problems.
+- Machne Learning ALgorithms  
+- NLP 
+- Cloud & AI Integration  
+- Deeplearning 
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CH3MLON&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=CH3MLON&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
-⭐ If you like my projects, consider giving them a star!
+⭐ Thanks for visiting my profile!
 </p>
