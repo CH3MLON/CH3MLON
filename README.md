@@ -8,24 +8,19 @@
 ---
 
 ## 💫 About Me
-
-- 🎓 CSE (AI & ML) student at Sri Eshwar College of Engineering  
+  
 - 💻 Interested in AI, backend systems, and modern web development  
 - 🚀 Love building practical projects and experimenting with new ideas  
 - 🧠 Exploring NLP, cloud technologies, and intelligent applications  
 - 🤝 Enjoy working in teams, organizing events, and collaborating on projects  
-- ⚡ Strong interest in problem solving, software architecture, Artificial Intelligence systems  
+- ⚡ Strong interest in problem solving, software architecture, Machine learning 
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/CH3MLON">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/rohith-karthik13012007">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
